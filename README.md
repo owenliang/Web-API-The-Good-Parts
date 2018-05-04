@@ -649,3 +649,7 @@ API超出限速应该返回429 Too Many Requests的http code，最好还能给�
 ```
 一般来说，应该为开放的API开发一套dashboard管理后台，从而可以灵活的为不同的用户设置不同的限速值，以及查看实时速率以及剩余调用次数等信息。
 ```
+
+## 购买链接
+
+[Web API设计与开发](https://amazon.cn/gp/product/B071GB3SLQ/ref=as_li_tl?ie=UTF8&camp=536&creative=3200&creativeASIN=B071GB3SLQ&linkCode=as2&tag=yuerblog-23&linkId=1e3108e1993e44c9a054120fe056b4b9)
